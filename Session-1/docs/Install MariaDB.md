@@ -3,7 +3,6 @@
 ```
 sudo su
 ```
-
 ### 2. Ketik syntax berikut untuk update system linux:
 ```
 apt update
