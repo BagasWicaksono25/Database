@@ -33,9 +33,9 @@ Lalu klik "enter" 3x
 <img width="1366" height="728" alt="Dokumentasi 10" src="https://github.com/user-attachments/assets/64c7a59d-95e4-46b7-85ff-f9dd2761194c" />
 
 
-### 8. Tempel SSH Key yang sudah di salin pada bagian "key"
+### 7. Tempel SSH Key yang sudah di salin pada bagian "key"
 <img width="1366" height="728" alt="Dokumentasi 11" src="https://github.com/user-attachments/assets/feffced4-fa28-459c-81a9-10e12b9ba1ca" />
 
 
-### 7. SSH Key Berhasil Dibuat!
+### 8. SSH Key Berhasil Dibuat!
 <img width="1366" height="728" alt="Dokumentasi 12" src="https://github.com/user-attachments/assets/694a73a7-7f92-4106-bd36-379cc2328933" />
